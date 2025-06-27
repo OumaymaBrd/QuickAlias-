@@ -1,0 +1,15 @@
+C:\wamp64\www\HostKey\obj\Release\net6.0-windows\PowerShellShortcutCreator.csproj.AssemblyReference.cache
+C:\wamp64\www\HostKey\obj\Release\net6.0-windows\PowerShellShortcutCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\HostKey\obj\Release\net6.0-windows\PowerShellShortcutCreator.AssemblyInfoInputs.cache
+C:\wamp64\www\HostKey\obj\Release\net6.0-windows\PowerShellShortcutCreator.AssemblyInfo.cs
+C:\wamp64\www\HostKey\obj\Release\net6.0-windows\PowerShellShortcutCreator.csproj.CoreCompileInputs.cache
+C:\wamp64\www\HostKey\bin\Release\net6.0-windows\PowerShellShortcutCreator.exe
+C:\wamp64\www\HostKey\bin\Release\net6.0-windows\PowerShellShortcutCreator.deps.json
+C:\wamp64\www\HostKey\bin\Release\net6.0-windows\PowerShellShortcutCreator.runtimeconfig.json
+C:\wamp64\www\HostKey\bin\Release\net6.0-windows\PowerShellShortcutCreator.dll
+C:\wamp64\www\HostKey\bin\Release\net6.0-windows\PowerShellShortcutCreator.pdb
+C:\wamp64\www\HostKey\obj\Release\net6.0-windows\PowerShellShortcutCreator.dll
+C:\wamp64\www\HostKey\obj\Release\net6.0-windows\refint\PowerShellShortcutCreator.dll
+C:\wamp64\www\HostKey\obj\Release\net6.0-windows\PowerShellShortcutCreator.pdb
+C:\wamp64\www\HostKey\obj\Release\net6.0-windows\PowerShellShortcutCreator.genruntimeconfig.cache
+C:\wamp64\www\HostKey\obj\Release\net6.0-windows\ref\PowerShellShortcutCreator.dll

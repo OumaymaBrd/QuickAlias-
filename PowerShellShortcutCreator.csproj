@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyTitle>Gestionnaire de Raccourcis Globaux</AssemblyTitle>
+    <AssemblyDescription>Interface avancée pour créer et gérer des raccourcis clavier personnalisés</AssemblyDescription>
+    <AssemblyCompany>Votre Nom</AssemblyCompany>
+    <AssemblyProduct>Global Shortcut Manager</AssemblyProduct>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>
